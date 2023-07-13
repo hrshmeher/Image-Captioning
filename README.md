@@ -9,8 +9,8 @@ Implementing an image captioning system involves combining computer vision techn
 # TO RUN THIS CODE 
 you'll need the following:
 
-Pre-trained InceptionV3 model weights (imagenet version).
-A pre-trained captioning model (caption_model.h5).
-Word-to-index and index-to-word mappings saved as numpy files (word_to_index.npy and index_to_word.npy).
-A tokenizer used to tokenize the captions saved as a JSON file (tokenizer.json).
-An example image (example.jpg) for caption generation.
+- Pre-trained InceptionV3 model weights (imagenet version).
+- A pre-trained captioning model (caption_model.h5).
+- Word-to-index and index-to-word mappings saved as numpy files (word_to_index.npy and index_to_word.npy).
+- A tokenizer used to tokenize the captions saved as a JSON file (tokenizer.json).
+- An example image (example.jpg) for caption generation.
